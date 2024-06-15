@@ -27,4 +27,4 @@ import 'imports/develop.nss'
 import 'imports/goto.nss'
 import 'imports/taskbar.nss'
 import 'imports/icon_viewer.nss'
-
+import 'imports/shutdown.nss'
